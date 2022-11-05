@@ -2,4 +2,4 @@
 
 Introduction to graph theory: colourings, matchings, connectivity, planarity. Introduction to combinatorial analysis: generating series, recurrence relations, binary strings, plane trees.
 
-Note: use `pandoc` to compile `.md` files
+Here are personal notes of the course. Note: use `pandoc` to compile `.md` files
